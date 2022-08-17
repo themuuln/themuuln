@@ -7,3 +7,5 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Facebook - @themuuln](https://www.facebook.com/themuln) [Instagram - @themuuln](https://www.instagram.com/themuuln/)
 - ⚡ Fun fact: Most "FUN FACTS" use "FUN" pretty liberally
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themuuln&show_icons=true&theme=tokyonight)

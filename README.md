@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Themuuln</h1>
 <h3 align="center">A passionate frontend developer from Nowhere</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themuuln&label=Profile%20views&color=0e75b6&style=flat" alt="themuuln" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=themuuln&label=Profile%20views&color=0e75b6&style=flat](https://rishavanand.github.io/static/images/greetings.gif)" alt="themuuln" /> </p>
 
 <p align="left"> <a href="https://twitter.com/themuln" target="blank"><img src="https://img.shields.io/twitter/follow/themuln?logo=twitter&style=for-the-badge" alt="themuln" /></a> </p>
 

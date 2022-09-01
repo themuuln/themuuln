@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [XEPXEH](https://github.com/themuuln/XEPXEH)  
   
 
-- 🌱 I’m currently learning **JavaScript, SASS, React Native**  
+- 🌱 I’m currently learning **JavaScript, SASS, React Native, Vim, NeoVim**  
   
 
 - ❓ Ask me about **Anything**  

@@ -94,13 +94,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=themuuln&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" /></div>  
-<div align="center"><img src="https://github.com/anuraghazra/github-readme-stats" align="center" /></div>  
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themuuln&layout=compact" align="center" /></div>  
 <br/>  
 
   

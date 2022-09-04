@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Themuuln, A passionate frontend developer from Nowhere.</div>  
+### <div align="center">I'm Themuuln, A passionate ... developer from Nowhere.</div>  
   
 
 - 🔭 I’m currently working on [XEPXEH](https://github.com/themuuln/XEPXEH)  

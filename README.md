@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Themuuln, A passionate ... developer from Nowhere.</div>
-### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=76FAC7&center=true&vCenter=true&width=435&lines=Welcome+to+my+%22XARAALTAI%22+profile!" alt="Typing SVG" /></a></div>
+### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0098FF&center=true&vCenter=true&width=435&lines=I'm+Themuuln" alt="Typing SVG" /></a></div>
 
 - 🔭 I’m currently working on [XEPXEH](https://github.com/themuuln/XEPXEH)  
   

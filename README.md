@@ -6,7 +6,7 @@
 ### <div align="center">I'm Themuuln, A passionate ... developer from Nowhere.</div>
 ### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0098FF&center=true&vCenter=true&width=435&lines=%3CWelcome+to+my+%22XARAALTAI%22+profile%2F%3E" alt="Typing SVG" /></a></div>
 
-- 🔭 I’m currently working on [XEPXEH](https://github.com/themuuln/XEPXEH)  
+- 🔭 I’m currently working on **Mini-Projects**
   
 
 - 🌱 I’m currently learning **JavaScript, SASS, React Native, Vim, NeoVim**  

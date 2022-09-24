@@ -40,14 +40,15 @@
 <br/>  
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=themuuln&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
-
+</div>
 ---
-[![](https://visitcount.itsvg.in/api?id=themuuln&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=themuuln&&style=flat-square" align="center" />
+[![](https://visitcount.itsvg.in/api?id=themuuln&icon=2&color=1)](https://visitcount.itsvg.in)
+
 </div>  
   
 <!--START_SECTION:waka-->

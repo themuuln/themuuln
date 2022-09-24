@@ -33,16 +33,10 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=themuuln&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themuuln&show_icons=true&theme=dark&locale=en&layout=compact" alt="themuuln" align="center"/></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themuuln&show_icons=true&theme=dark&locale=en&layout=compact" alt="themuuln" align="center"/></div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=dark" alt="themuuln" align="center"/></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=dark" alt="themuuln" align="center"/></div>
 
-
-<br/>  
-
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themuuln&layout=compact" align="center" /></div>  
 <br/>  
 
 <div align="center">

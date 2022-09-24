@@ -33,9 +33,9 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=themuuln&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themuuln&show_icons=true&theme=dark&locale=en&layout=compact" alt="themuuln" align="center"/></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themuuln&show_icons=true&theme=dark&locale=en&layout=compact" alt="themuuln" align="center"/></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=dark" alt="themuuln" align="center"/></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=dark" alt="themuuln" align="center"/></div>
 
 
 <br/>  
@@ -49,17 +49,6 @@
 <img src="https://komarev.com/ghpvc/?username=themuuln&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/themuuln" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

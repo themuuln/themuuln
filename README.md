@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **mini-projects**
 
-- 🌱 I’m currently learning **JS, React, Vim, TailwindCSS**
+- 🌱 I’m currently learning **JS, TS, React, NextJS, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/themuuln?tab=repositories](https://github.com/themuuln?tab=repositories)
 

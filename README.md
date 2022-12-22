@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Most "FUN FACTS" use "FUN" pretty liberally**
 
-- Repositories in Private Sorry
+- **Most of the Repositories are in Private**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

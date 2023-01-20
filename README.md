@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Front-end Languages, Designing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/themuuln?tab=repositories](https://github.com/themuuln?tab=repositories)
-
 - 💬 Ask me about **Anything**
 
 - ⚡ Fun fact **Most "FUN FACTS" use "FUN" pretty liberally**

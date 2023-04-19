@@ -40,16 +40,16 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=themuuln&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /></div>  
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themuuln&show_icons=true&theme=algolia&locale=en&layout=compact" alt="themuuln" align="center"/></div>
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=tokyonight&hide_border=true)<br/></div>
 
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=algolia" alt="themuuln" align="center"/></div>
+<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=themuuln&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</div>
 
 <br/>  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=themuuln&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themuuln&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=themuuln&theme=discord&no-frame=true&no-bg=false&margin-w=4)

@@ -46,11 +46,13 @@
 
 <br/>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=themuuln&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=themuuln&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=themuuln&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=themuuln&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=themuuln&icon=2&color=1)](https://visitcount.itsvg.in)
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-

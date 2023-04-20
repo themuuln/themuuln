@@ -11,8 +11,6 @@
 
 - VSCode Profile - https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b 
 
-- [https://themuln-env.notion.site/Coding-Environment-Setup-a6e55357c06e4b9a883a91980e3288eb](https://www.notion.so/themuuln/My-Coding-Environment-a6e55357c06e4b9a883a91980e3288eb)
-
 # 🤙 Connect with me:
 
 <br />

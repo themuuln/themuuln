@@ -2,12 +2,12 @@
 <img src="./back_blue.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center"> <h1><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> A passionate developer from Nowhere.</h1></div>
+### <div align="center"> <h1><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> A passionate developer from Mongolia.</h1></div>
 ![](https://i.imgur.com/waxVImv.png)
 
 ### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0098FF&center=true&vCenter=true&width=435&lines=%3CWelcome+to+my+%22XARAALTAI%22+profile%2F%3E" alt="Typing SVG" /></a></div>
 
-- **Most of the Repositories are in Private**
+- **Hey, just so you know, most of my repos are private, so you won't find them on my public profile.**
 
 - VSCode Profile - https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b
 

@@ -24,7 +24,7 @@
 <a href="https://fb.com/themuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themuln" height="30" width="40" /></a>
 <a href="https://instagram.com/themuuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themuuln" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/themuuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="themuuln" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/XyD3aUkesN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XyD3aUkesN" height="30" width="40" /></a>
+<a href="https://discord.com/users/777387288618598420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XyD3aUkesN" height="30" width="40" /></a>
 </p>
 
 </td><td valign="top" width="33%">

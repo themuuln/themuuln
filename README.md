@@ -10,7 +10,7 @@
 
 - VSCode Profile - https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b
 
-- CV - https://themuuln.notion.site/Temuulen-Undrakhbayar-5fa2520394644e80b9cbcfdc4ecbd455
+- CV - Notion based CV[https://themuuln.notion.site/Temuulen-Undrakhbayar-5fa2520394644e80b9cbcfdc4ecbd455]
 
 # 🤙 Connect with me:
 

@@ -8,9 +8,9 @@
 
 - **Hey, just so you know, most of my repos are private, so you won't find them on my public profile.**
 
-- VSCode Profile - https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b
+- VSCode Profile - [`VSCode.dev/profile`](https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b)
 
-- CV - Notion based CV[https://themuuln.notion.site/Temuulen-Undrakhbayar-5fa2520394644e80b9cbcfdc4ecbd455]
+- CV - [`My Notion based CV`](https://themuuln.notion.site/Temuulen-Undrakhbayar-5fa2520394644e80b9cbcfdc4ecbd455)
 
 # 🤙 Connect with me:
 

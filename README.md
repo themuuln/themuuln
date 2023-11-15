@@ -4,13 +4,13 @@
 
 - **Hey, just so you know, most of my repos are private, so you won't find them on my public profile.**
 
-- VSCode Profile - [`VSCode.dev/profile`](https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b)
+- VSCode Code Editor Settings - [`VSCode.dev/profile`](https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b)
 
 - JetBrains IDE Settings - [`settings.zip`](https://github.com/themuuln/jetbrains-ide-config)
 
-- .ideavimrc - [`gist/themuuln`](https://gist.github.com/themuuln/f6cdf5956a5c40a7f402aa4605917af6)
+- .ideavimrc dotfile - [`gist/themuuln`](https://gist.github.com/themuuln/f6cdf5956a5c40a7f402aa4605917af6)
 
-- CV - [`My Notion based CV`](https://themuuln.notion.site/Temuulen-Undrakhbayar-5fa2520394644e80b9cbcfdc4ecbd455)
+- Personal Resume (CV)- [`My Notion based CV`](https://themuuln.notion.site/Temuulen-Undrakhbayar-5fa2520394644e80b9cbcfdc4ecbd455)
 
 # 🤙 Connect with me:
 

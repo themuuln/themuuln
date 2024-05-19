@@ -4,7 +4,7 @@
 
 - **Hey, just so you know, most of my repos are private, so you won't find them on my public profile.**
 
-- VSCode Code Editor Settings - [`VSCode.dev/profile`](https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b)
+- VSCode Code Editor Settings - [`vscode.dev/profile`]([https://vscode.dev/profile/github/f1da5fb11822d24fb02f9a79713c307b](https://vscode.dev/profile/github/fe9e73b1d43a6db0c60883d892fe20cb))
 
 - JetBrains IDE Settings - [`settings.zip`](https://github.com/themuuln/jetbrains-ide-config)
 

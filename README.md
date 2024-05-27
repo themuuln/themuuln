@@ -43,3 +43,7 @@
 <center>
 <img src="https://github-profile-trophy.vercel.app/?username=themuuln&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </center>
+
+# Roadmap.sh status
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65192bff39da8117e2ed7568?variant=dark&roadmaps=react%2Creact-native%2Csoftware-design-architecture%2Ctypescript)](https://roadmap.sh)

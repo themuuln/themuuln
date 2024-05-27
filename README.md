@@ -1,7 +1,3 @@
-![](https://i.imgur.com/waxVImv.png)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello%2C+I'm+Temuulen+Undrakhbayar" alt="Typing SVG" /></a>
-
 - **Hey, just so you know, most of my repos are private, so you won't find them on my public profile.**
 
 - VSCode Code Editor Settings - [`vscode.dev/profile`](https://vscode.dev/profile/github/fe9e73b1d43a6db0c60883d892fe20cb)

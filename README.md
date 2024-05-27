@@ -17,8 +17,6 @@
 <br />
 <p align="left">
 <a href="https://instagram.com/themuuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themuuln" height="30" width="40" /></a>
-<a href="https://fb.com/themuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themuln" height="30" width="40" /></a>
-<a href="https://twitter.com/themuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themuln" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/themuuln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themuuln" height="30" width="40" /></a>
 </p>
 
@@ -38,12 +36,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </center>
 
-# 🏆 GitHub Trophies
-
-<center>
-<img src="https://github-profile-trophy.vercel.app/?username=themuuln&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</center>
-
-# Roadmap.sh status
+# 🏫 Roadmap.sh Status
 
 [![roadmap.sh](https://roadmap.sh/card/tall/65192bff39da8117e2ed7568?variant=dark&roadmaps=react%2Creact-native%2Csoftware-design-architecture%2Ctypescript)](https://roadmap.sh)

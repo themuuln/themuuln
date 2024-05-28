@@ -60,12 +60,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/themuuln/themuuln/output/snake.svg" alt="Snake animation" />
-
-###
-
 - VSCode Code Editor Settings - [`vscode.dev/profile`](https://vscode.dev/profile/github/fe9e73b1d43a6db0c60883d892fe20cb)
 - JetBrains IDE Settings - [`settings.zip`](https://github.com/themuuln/jetbrains-ide-config)
 - .ideavimrc dotfile - [`gist/themuuln`](https://gist.github.com/themuuln/f6cdf5956a5c40a7f402aa4605917af6)

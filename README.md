@@ -23,9 +23,6 @@
 
 <br/>
 <center>
-<img src="https://github-readme-stats.vercel.app/api?username=themuuln&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-</center>
-<center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=themuuln&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </center>
 
